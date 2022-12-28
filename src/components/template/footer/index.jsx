@@ -3,7 +3,7 @@ import './style.css'
 
 function Footer() {
     return (
-        <footer className='footer'>
+        <footer className='footer' id='contacts'>
             <span>Created By WindowsCrashed</span>
         </footer>
     )

@@ -1,0 +1,13 @@
+.video-container {
+    height: 100vh;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: black;
+}
+
+.video-container video {
+    height: 100%;
+}

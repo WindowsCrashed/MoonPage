@@ -5,9 +5,7 @@
     height: 100%;
     width: 100%;
     padding: 0px 60px;
-
-    background-color: rgb(52, 140, 255);
-    color: white;
+    color: inherit;
 }
 
 .navbar .brand {

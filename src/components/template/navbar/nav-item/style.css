@@ -1,4 +1,7 @@
 .nav-item a {
-    text-decoration: none;
-    color: inherit;
+    transition: color 0.15s;
+}
+
+.nav-item a:hover {
+    color: rgb(198, 211, 225);
 }
