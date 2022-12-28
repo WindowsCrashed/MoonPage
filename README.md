@@ -1,1 +1,2 @@
-Warning: assets folder not included. Some features won't work properly.
+# Warning
+Assets folder not included. Some features won't work properly.
