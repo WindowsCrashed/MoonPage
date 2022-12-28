@@ -6,12 +6,10 @@
     display: flex;
     align-items: center;
     z-index: 10;
-}
-
-.white-text {
     color: white;
+    transition: background-color 0.2s;
 }
 
-.black-text {
-    color: black;
+.background {
+    background: linear-gradient(black, rgb(0,0,0,0.8));
 }
